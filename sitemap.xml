@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.teamwater.cn/contact/index.html</loc>
+    
+    <lastmod>2018-02-21T11:13:00.280Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.teamwater.cn/archivers/index.html</loc>
+    
+    <lastmod>2018-02-21T11:12:26.580Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.teamwater.cn/about/index.html</loc>
+    
+    <lastmod>2018-02-21T11:12:11.112Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.teamwater.cn/qualification/index.html</loc>
     
-    <lastmod>2018-02-20T16:25:24.752Z</lastmod>
+    <lastmod>2018-02-21T11:11:56.072Z</lastmod>
     
   </url>
   
@@ -40,27 +61,6 @@
     <loc>http://www.teamwater.cn/2016/05/02/robocup-china-2016/</loc>
     
     <lastmod>2016-12-19T22:15:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.teamwater.cn/contact/index.html</loc>
-    
-    <lastmod>2016-12-14T16:30:24.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.teamwater.cn/about/index.html</loc>
-    
-    <lastmod>2016-12-14T16:15:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.teamwater.cn/archivers/index.html</loc>
-    
-    <lastmod>2016-09-04T07:32:48.000Z</lastmod>
     
   </url>
   
